@@ -1,0 +1,73 @@
+body{
+  background-color: hsl(0, 0%, 95%);
+  font-size: 15px;
+  margin: 17% 7%;
+}
+h1{
+
+  color: hsl(0, 0%, 95%);
+  font-family: 'Big Shoulders Display', cursive;
+}
+p{
+  color: hsla(0, 0%, 100%, 0.75);
+  font-family: 'Lexend Deca', sans-serif;
+}
+.btn{
+  border-radius: 35px;
+  margin-top: 45%;
+}
+.first{
+   background-color: hsl(31, 77%, 52%);
+   border-bottom-left-radius: 8px;
+   border-top-left-radius: 8px;
+   padding: 100px;
+}
+.second{
+  background-color: hsl(184, 100%, 22%);
+  padding: 83px;
+}
+.third{
+  background-color: hsl(179, 100%, 13%);
+  border-top-right-radius: 8px;
+  border-end-end-radius: 8px;
+  padding: 83px;
+}
+.btn1{
+  color: hsl(31, 77%, 52%);
+  font-family: 'Lexend Deca', sans-serif;
+  margin-top: 37%;
+}
+.btn2{
+  color: hsl(184, 100%, 22%);
+  font-family: 'Lexend Deca', sans-serif;
+}
+.btn3{
+  color: hsl(179, 100%, 13%);
+  font-family: 'Lexend Deca', sans-serif;
+}
+.btn1:hover{
+  background-color: hsl(31, 77%, 52%);
+  color: hsl(0, 0%, 95%);
+  
+}
+.btn2:hover{
+  background-color: hsl(184, 100%, 22%);
+  color: hsl(0, 0%, 95%);
+}
+.btn3:hover{
+  background-color: hsl(179, 100%, 13%);
+  color: hsl(0, 0%, 95%);
+}
+.im{
+  margin-top: 0;
+  margin-bottom: 10%;
+}
+.im1{
+  padding-bottom: 15%;
+}
+.t{
+  margin-top: 0;
+}
+.col{
+  align-items: center;
+}
